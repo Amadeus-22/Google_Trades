@@ -1,7 +1,7 @@
 # Google_Trades
 # 📈 Google Trends and Data Visualization
 
-Este projeto tem como objetivo analisar tendências de busca do Google (Google Trends) e compará-las com dados financeiros, como preços históricos do Bitcoin e ações da Tesla. Utilizando Python e bibliotecas de visualização, investigamos possíveis correlações entre o interesse do público e o comportamento do mercado.
+Este projeto tem como objetivo analisar tendências de busca do Google (Google Trends) e compará-las com dados financeiros, como preços históricos do Bitcoin e ações da Tesla. Utilizando Python e bibliotecas de visualização, investigando possíveis correlações entre o interesse do público e o comportamento do mercado.
 
 ---
 
